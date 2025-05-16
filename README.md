@@ -1,4 +1,4 @@
-# Hi there, I'm Brandon Hill! 👋
+# Howdy, I'm Brandon Hill! 👋
 
 **Software Engineer** | **Full-Stack Developer** | **Automation Enthusiast**
 
